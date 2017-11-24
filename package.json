@@ -1,0 +1,32 @@
+{
+  "name": "rademenes",
+  "version": "0.1.0",
+  "description": "minimalistic java script utility library",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "jest --coverage"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mariocoski/rademenes.git"
+  },
+  "keywords": [
+    "javascript",
+    "utility",
+    "library",
+    "functional",
+    "programming"
+  ],
+  "author": "Mariusz Rajczakowski <mariuszrajczakowski@gmail.com> (http://mariuszrajczakowski.me)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mariocoski/rademenes/issues"
+  },
+  "homepage": "https://github.com/mariocoski/rademenes#readme",
+  "engines": {
+    "node": ">=4.0.0"
+  },
+  "devDependencies": {
+    "jest": "^21.2.1"
+  }
+}
