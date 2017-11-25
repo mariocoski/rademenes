@@ -24,7 +24,7 @@
   },
   "homepage": "https://github.com/mariocoski/rademenes#readme",
   "engines": {
-    "node": ">=4.0.0"
+    "node": ">=4.8.2"
   },
   "devDependencies": {
     "codecov": "^3.0.0",
