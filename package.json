@@ -27,6 +27,7 @@
     "node": ">=4.0.0"
   },
   "devDependencies": {
+    "codecov": "^3.0.0",
     "jest": "^21.2.1"
   },
   "jest": {
