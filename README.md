@@ -49,3 +49,4 @@ with the owners of this repository before making a change.
 
 ## Release History
 * 0.1.0 Initial release
+* 0.1.1 Added build and coverage badges
