@@ -1,5 +1,4 @@
 # rademenes
-============
 
 [![CircleCI](https://circleci.com/gh/mariocoski/rademenes.svg?style=svg)](https://circleci.com/gh/mariocoski/rademenes)
 [![codecov](https://codecov.io/gh/mariocoski/rademenes/branch/master/graph/badge.svg)](https://codecov.io/gh/mariocoski/rademenes)
