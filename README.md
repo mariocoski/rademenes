@@ -5,7 +5,7 @@
 
 minimalistic java script utility library providing pluck and pick methods
 
-[Link to the article](http://withjavascript.com/blog/create-and-publish-your-first-npm-package)
+[Link to the tutorial](http://withjavascript.com/blog/create-and-publish-your-first-npm-package)
 
 ## Installation
 ```javascript
