@@ -1,4 +1,6 @@
 "use strict";
 module.exports = function(array){
-  return [].concat(...array);
+  return array.reduce(function(a, b){
+   return a.concat(b);
+  }, []);
 }
