@@ -61,3 +61,4 @@ with the owners of this repository before making a change.
 * 0.1.0 Initial release
 * 0.1.1 Added build and coverage badges
 * 0.2.0 Added flatten and deepFlatten functions
+* 0.2.2 Changed flatten to be node backwards compatible
