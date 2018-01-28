@@ -3,7 +3,11 @@
 [![CircleCI](https://circleci.com/gh/mariocoski/rademenes.svg?style=svg)](https://circleci.com/gh/mariocoski/rademenes)
 [![codecov](https://codecov.io/gh/mariocoski/rademenes/branch/master/graph/badge.svg)](https://codecov.io/gh/mariocoski/rademenes)
 
-minimalistic java script utility library providing pluck and pick methods
+minimalistic java script utility library provides the following methods:
+* pick
+* pluck
+* flatten
+* deepFlatten
 
 [Link to the tutorial](http://withjavascript.com/blog/create-and-publish-your-first-npm-package)
 
