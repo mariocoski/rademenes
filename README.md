@@ -36,7 +36,7 @@ minimalistic java script utility library providing pluck and pick methods
 
   console.log(onlyFillable); //prints { firstname: 'John', lastname: 'Doe', age: 25 };
 
-  //FLATTEN 
+  //FLATTEN
   const arrayToBeFlattened = [[1,2],[3,4,5],[6]];
   console.log(R.flatten(arrayToBeFlattened)); // prints [1,2,3,4,5,6]
 
@@ -60,3 +60,4 @@ with the owners of this repository before making a change.
 ## Release History
 * 0.1.0 Initial release
 * 0.1.1 Added build and coverage badges
+* 0.2.0 Added flatten and deepFlatten functions
