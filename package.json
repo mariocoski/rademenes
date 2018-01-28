@@ -4,7 +4,8 @@
   "description": "minimalistic java script utility library",
   "main": "src/index.js",
   "scripts": {
-    "test": "jest --coverage && codecov"
+    "test": "jest --coverage && codecov",
+    "test:watch": "jest --coverage --watch"
   },
   "repository": {
     "type": "git",
